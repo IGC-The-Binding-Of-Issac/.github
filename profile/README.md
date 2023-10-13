@@ -4,8 +4,7 @@ MINI PROJECT
 <br>
 The Binding Of Issac 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&text=The_Binding_Of_Issac&fontSize=30&color=auto)
-
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=D2A798&height=100&section=header&text=TheBindingOfIssac&fontSize=30&fontColor=261514&animation=fadeIn)
 
 <img src="https://github-readme-stats.vercel.app/api?username=kaffu0424&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=onedark">
 <img src="https://github-readme-stats.vercel.app/api?username=binanuku&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight">
